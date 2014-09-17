@@ -1,7 +1,7 @@
 ## All implementation in this file done by Paul Lambert
 ## Github: https://github.com/prlambert/ProgrammingAssignment2/
 
-## The two functions in this file work together to cache computed values of 
+## The two functions in this file work together to compute and cache values of 
 ## an inverted matrix.
 ##
 ## The first function, 'makeCacheMatrix' returns a list with 'getter'
